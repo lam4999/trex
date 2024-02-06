@@ -1,0 +1,16 @@
+.sbc {
+    border-collapse: collapse;
+}
+
+.sbc tr:nth-child(2n+1) {
+    background-color: aquamarine;
+}
+.sbc tr:nth-child(2n) {
+    background-color: papayawhip;
+}
+tr :first-child {
+    color: rgb(235, 129, 0);
+}
+tr :last-child {
+    color: blueviolet;
+}
